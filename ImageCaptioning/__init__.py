@@ -1,0 +1,1 @@
+﻿from .image_captioning import caption_image
